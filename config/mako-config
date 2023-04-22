@@ -1,0 +1,8 @@
+font="Inter" 10
+background-color=#1E1E2EFF
+text-color=#F5E0DCFF
+border-color=#F5E0DCFF
+border-radius=11
+max-icon-size=32
+default-timeout=5000
+max-visible=1
